@@ -1,0 +1,52 @@
+body {
+	font: sans-serif;   
+}
+
+
+h1 {
+    color: navy;
+    font: sans-serif;
+ 
+
+}
+
+p1 {
+    color: rgba(255, 0, 0, 0.8);
+    /*margin-left: 100px;*/
+    font: sans-serif;
+}
+p {
+    color: #002080;
+        font: sans-serif;
+}
+
+img {
+    align: middle;
+}
+
+a:link {
+    color: #000000;
+    font: sans-serif;
+}
+
+
+a:visited {
+    color: #002080;
+    font: sans-serif;
+}
+
+a:hover {
+    color: #ff1a75;
+    font: sans-serif;
+}
+
+
+a:active {
+    color: #002080;
+    font: sans-serif;
+}
+
+table{
+	background-color: #dddddd
+	color:navy;
+}
