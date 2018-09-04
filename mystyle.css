@@ -1,16 +1,21 @@
 body {
 	font-family: sans-serif;
+     background: url(background.jpg);
+     position: centerline;
 }
 
 
 h1 {
     color: navy;
-    
+    position: center;
+}
+img {
+    position: center;
 }
 
 p1 {
     color: rgba(255, 0, 0, 0.8);
-    /*margin-left: 100px;*/
+    margin-left: 100px;
     
 }
 p {
@@ -43,6 +48,6 @@ a:active {
 }
 
 table{
-    
+    padding: 5px;
 	color:navy;
 }
