@@ -1,0 +1,54 @@
+body {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+     background-color: #ff1a75;
+     
+}
+
+
+h1 {
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: italic;
+    
+}
+
+p1 {
+    color: rgba(255, 0, 0, 0.8);
+    margin-left: 100px;
+    
+}
+p {
+    color: green;
+    
+}
+
+
+
+a:link {
+    color: #000000;
+    
+}
+
+
+a:visited {
+    color: #002080;
+    
+}
+
+a:hover {
+    color: #ff1a75;
+  
+}
+
+
+a:active {
+    color: #002080;
+    
+}
+
+table{
+    width: 80%;
+    padding: 5px;
+	color:navy;
+}
