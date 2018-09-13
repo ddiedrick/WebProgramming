@@ -1,0 +1,75 @@
+html{
+	background-image: url(img/background-neutral.jpg)
+}
+
+body{
+  margin: 0;
+
+}
+
+h1 {
+	margin-top: 15px;
+	text-align: center;
+	color: white;
+	font-family: sans-serif;
+	font-size: 40px;
+}
+
+.navbar {
+	overflow: hidden;
+}
+
+.navbar a {
+	float: left;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	font-size: 17px;
+	text-decoration: none;
+}
+
+.navbar a:hover {
+	background-color: #ddd;
+	color: black;
+}
+
+.navbar a.active {
+	background-color: white;
+	color: black;
+}
+.head { 
+  font-size: 30px ;
+  color: rgb(255, 102, 0);
+  text-align: center;
+}
+
+img{
+  padding-top: 10px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+ul{
+  text-align: center;
+}
+ul li{
+  font-size: 30px;
+  color: rgb(255, 102, 0);
+  display: inline;
+  padding: 10px;
+  font-style: bold;
+  font-family: fantasy;
+  
+
+}
+#pieces{
+  color: rgb(255, 102, 0);
+  text-align: center;
+  padding: 15pt;
+  width: max-content;
+  height: max-content;
+  margin-right: auto;
+  margin-left: auto;
+  
+}
